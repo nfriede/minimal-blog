@@ -1,0 +1,1 @@
+A minimal blog to test next.js.
